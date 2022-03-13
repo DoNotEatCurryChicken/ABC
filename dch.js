@@ -2,8 +2,9 @@
  东呈会app签到
  积分可兑换话费、签到14天换爱奇艺会员月卡、实物等，详见任务兑换页面，小毛，看不上的就算了
  ----------------------------------
- Author：不吃咖喱鸡           
- Last Update Date：2022.03.13   
+ Author：不吃咖喱鸡 
+ Last Update Date：2022.03.13
+ https://raw.githubusercontent.com/DoNotEatCurryChicken/ABC/main/dch.js
  ----------------------------------
  目前只有每日签到，一天一次，自己定时
  没有设置重写，只测试了青龙，理论上V2P也能用
