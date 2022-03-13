@@ -6,8 +6,8 @@
  Last Update Date：2022.03.13
 
  ----------------------------------
- 
-10 * * * *  https://raw.githubusercontent.com/DoNotEatCurryChicken/ABC/main/dch.js, tag=东呈会签到
+#东呈会签到 
+cron "15 10 * * *" https://raw.githubusercontent.com/DoNotEatCurryChicken/ABC/main/dch.js, tag=东呈会签到
  目前只有每日签到，一天一次，自己定时
  没有设置重写，只测试了青龙，理论上V2P也能用
  app签到页面，先领取任务，抓包cookie，没有测试关键参数，所以将cookie全部填入变量变量dchCookie，多账号用@隔开，例子：export dchCookie='xxxxxxxxxxxxxx'
